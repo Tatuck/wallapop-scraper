@@ -1,0 +1,4 @@
+__pycache__
+*.xlsx
+.env
+tests/
