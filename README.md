@@ -16,7 +16,7 @@ This program uses Wallapop API for finding products that can be resold for a pro
 ```
 LLM_API_KEY = 'YOUR-GEMINI-API-KEY'
 ```
-2. Install `requirements.txt'
+2. Install `requirements.txt`
 ```sh
 pip install -r requirements.txt
 ```
